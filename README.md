@@ -2,4 +2,6 @@
 
 First file for the new repository
 ! hello again
-let's change this text here
+let's 
+## Local Develeopment
+1. Open index.html in browser
